@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 
 const BoxSplit = () => {
   // Initial size of the square
-  const initialSize = 600;
+  const initialSize = 500;
 
   // State to hold the squares and their position (x, y), size and depth level of splits
   const [squares, setSquares] = useState([
