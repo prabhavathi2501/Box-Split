@@ -1,0 +1,25 @@
+/* Basic styles for the container */
+.container {
+  position: relative;
+  width: 1200px;  /* The initial container size */
+  height: 1200px;
+  background-color: white;
+  overflow: hidden; /* Ensure no overflow of squares outside the container */
+}
+
+/* Styling for the individual squares */
+.square {
+  position: absolute;
+  background-color: white;
+  border: 1px solid black;
+  cursor: pointer;
+  margin: 50px 500px;
+  width: 400px;
+ 
+}
+.heading{
+  align-items: center;
+  color: blue;
+  margin: 30px 600px;
+  font-size: 45px;
+}
