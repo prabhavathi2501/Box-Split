@@ -4,7 +4,7 @@ import "./App.css"
 
 function App() {
   return <>
-  <h1 className='heading'>split Box</h1>
+  <h1 className='heading'>Split Box</h1>
   <BoxSplit/>
   </>
 }
