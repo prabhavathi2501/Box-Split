@@ -2,7 +2,7 @@
 .container {
   position: relative;
   width: 1200px;  /* The initial container size */
-  height: 1200px;
+  height: 1000px;
   background-color: white;
   overflow: hidden; /* Ensure no overflow of squares outside the container */
 }
@@ -21,5 +21,5 @@
   align-items: center;
   color: blue;
    margin: 30px 600px; 
-  font-size: 35px;
+  font-size: 30px;
 }
